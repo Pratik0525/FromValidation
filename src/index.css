@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .rc-anchor-light {
+  background: green !important;
+}
+.rc-anchor-light {
+  background: red !important;
+  color: #000;
+} */
+.erroe {
+  color: red;
+}
